@@ -1,4 +1,4 @@
-            ![0_yBvA5CnEX3Sd4aod](https://github.com/ShreyaC11/ShreyaC11/assets/101707492/33cc92ed-91a3-4031-a88a-6ccab6da21be)
+![0_yBvA5CnEX3Sd4aod](https://github.com/ShreyaC11/ShreyaC11/assets/101707492/33cc92ed-91a3-4031-a88a-6ccab6da21be)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shreya Chinchmalatpure
