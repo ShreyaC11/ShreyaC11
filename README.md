@@ -1,3 +1,4 @@
+![0_yBvA5CnEX3Sd4aod](https://github.com/ShreyaC11/ShreyaC11/assets/101707492/39d9827e-1667-4538-bebc-6749525e5cec)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shreya Chinchmalatpure
 ==============================================================================================================================================
 
@@ -7,8 +8,7 @@ A Passionate Frontend Developer & MERN Stack Enthusiast Building the Digital Fut
 👋 Hey there! I'm Shreya, a passionate frontend and fullstack developer dedicated to crafting exceptional web experiences. With a keen eye for design and a knack for clean, efficient code, I love building intuitive user interfaces that make an impact. My GitHub is where you'll find a collection of my projects, ranging from sleek responsive websites to robust fullstack applications. Let's connect, collaborate, and create something awesome together!
 
 
-* 🔭 I’m currently working as Intern at Leapot Technologi![0_yBvA5CnEX3Sd4aod](https://github.com/ShreyaC11/ShreyaC11/assets/101707492/39d9827e-1667-4538-bebc-6749525e5cec)
-es
+* 🔭 I’m currently working as Intern at Leapot Technologies
 
 * 🌱 I’m currently learning Nextjs,MERN Stack
 
