@@ -1,12 +1,10 @@
-![0_yBvA5CnEX3Sd4aod](https://github.com/ShreyaC11/ShreyaC11/assets/101707492/33cc92ed-91a3-4031-a88a-6ccab6da21be)
 
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shreya Chinchmalatpure
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF00&random=false&width=717&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Shreya.;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+A+zealous+web+developer+crafting+seamless+web+experience." alt="Typing SVG" /></a>
 ==============================================================================================================================================
 
 A Passionate Frontend Developer & MERN Stack Enthusiast Building the Digital Future.
 ------------------------------------------------------------------------------------
-
+<img align='right' alt='coding' width='400' scr='https://miro.medium.com/v2/resize:fit:1400/format:webp/0*yBvA5CnEX3Sd4aod.gif'>
 👋 Hey there! I'm Shreya, a passionate frontend and fullstack developer dedicated to crafting exceptional web experiences. With a keen eye for design and a knack for clean, efficient code, I love building intuitive user interfaces that make an impact. My GitHub is where you'll find a collection of my projects, ranging from sleek responsive websites to robust fullstack applications. Let's connect, collaborate, and create something awesome together!
 
 
