@@ -1,10 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF00&random=false&width=717&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Shreya.;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+A+zealous+web+developer+crafting+seamless+web+experience.)](https://git.io/typing-svg)
-<h3 align="center">A Passionate Frontend Developer & MERN Stack Enthusiast Building the Digital Future.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF855B&background=FFFFFF00&random=false&width=717&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Shreya.;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+A+zealous+web+developer+crafting+seamless+web+experience.)](https://git.io/typing-svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyac11&label=Profile%20views&color=0e75b6&style=flat" alt="shreyac11" /> </p>
 
-<p> Hey there! I'm Shreya, a passionate frontend and fullstack developer dedicated to crafting exceptional web experiences. With a keen eye for design and a knack for clean, efficient code, I love building intuitive user interfaces that make an impact. My GitHub is where you'll find a collection of my projects, ranging from sleek responsive websites to robust fullstack applications. Let's connect, collaborate, and create something awesome together! </p>
+<p> Hey there! I'm Shreya Chinchmalatpure, a passionate frontend and fullstack developer dedicated to crafting exceptional web experiences. With a keen eye for design and a knack for clean, efficient code, I love building intuitive user interfaces that make an impact. My GitHub is where you'll find a collection of my projects, ranging from sleek responsive websites to robust fullstack applications. Let's connect, collaborate, and create something awesome together! </p>
  <img align='right' alt='coding' width='380' src='https://miro.medium.com/v2/resize:fit:1400/format:webp/0*yBvA5CnEX3Sd4aod.gif'>
+
+
 
 - 🔭 I’m currently working as Intern at **Leapot Technologies**
 
